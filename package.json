@@ -1,0 +1,21 @@
+{
+  "name": "gdocv4_domain_delegation_app",
+  "version": "1.0.0",
+  "description": "gdocv4_domain_delegation_app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "googleapis": "^123.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
